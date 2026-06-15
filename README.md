@@ -1,6 +1,6 @@
 ## Olá, me chamo William! 👋
 ### Desenvolvedor web desde 2012 · CTO da 21 GO Tech
-Construo e mantenho produtos com PHP e MySQL na AWS. Movido a video-games e uma Coca-Cola gelada. 🥤
+Construo e mantenho produtos com PHP e MySQL na AWS. Movido a video-games e Coquinha gelada 🥤
 
 ### 🛠️ Tecnologias
 
@@ -21,13 +21,13 @@ Construo e mantenho produtos com PHP e MySQL na AWS. Movido a video-games e uma 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Conheça mais sobre o nosso trabalho:
-- [<img align="left" alt="Site da 21 Live" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%2300C2FF" /> Site da 21 Live](https://21live.com.br/)
+- [<img align="left" alt="Site da 21LIVE" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%2300C2FF" /> Site da 21LIVE](https://21live.com.br/)
 - [<img align="left" alt="Site do BizProp" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%2300C2FF" /> Site do BizProp](https://bizprop.com.br/)
 - [<img align="left" alt="PaiCthulhu | LinkedIn" width="22px" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" /> Linkedin da 21 GO Tech](https://www.linkedin.com/company/21live/)
 
 ### 📱 Agora também temos aplicativo!
-- [<img align="left" alt="Google Play" width="22px" src="https://api.iconify.design/simple-icons:googleplay.svg?color=%2300C2FF" /> 21Live na Google Play](https://play.google.com/store/apps/details?id=com.live21.general)
-- [<img align="left" alt="App Store" width="22px" src="https://api.iconify.design/simple-icons:appstore.svg?color=%2300C2FF" /> 21Live na App Store](https://apps.apple.com/us/app/21live-app/id6770739537)
+- [<img align="left" alt="Google Play" width="22px" src="https://api.iconify.design/simple-icons:googleplay.svg?color=%2300C2FF" /> 21LIVE na Google Play](https://play.google.com/store/apps/details?id=com.live21.general)
+- [<img align="left" alt="App Store" width="22px" src="https://api.iconify.design/simple-icons:appstore.svg?color=%2300C2FF" /> 21LIVE na App Store](https://apps.apple.com/us/app/21live-app/id6770739537)
 
 ### Você também pode me encontrar pelas minhas redes sociais:
 [<img align="left" alt="PaiCthulhu | LinkedIn" width="22px" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" />][linkedin]
